@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-printf("Hello ivt-b20\n");
+printf("Hello RPM\n");
 return 0;
 }
